@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- 
+
 # Libraries
 
 from keras.layers import Flatten, Dense, Dropout
