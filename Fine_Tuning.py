@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Importing libraries 
+# Importing req. libraries 
 
 
 from keras.layers import Flatten, Dense, Dropout
@@ -11,7 +11,7 @@ from TransferLearning1 import NewModel
 
 ####################Load Data #################################
 
-trainDir= 'E:/Cat&DogDataset/kagglecatsanddogs_3367a/Classes/secondTry/TrainData'
+trainDir= 'E:/Cat&DogDataset/kagglecatsanddogs_3367a/Classes/secondTry/TrainData' # Accessing Local disks
 testDir = 'E:/Cat&DogDataset/kagglecatsanddogs_3367a/Classes/secondTry/TestData'
 
 
