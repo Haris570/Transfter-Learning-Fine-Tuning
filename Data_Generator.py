@@ -1,10 +1,11 @@
-# -*- coding: utf-8 -*-
+#   -*-    coding: utf-8    -*-
 """
 Created on Fri May 10 15:32:02 2019
 
 @author: haris
 """
 ################ Importing req. libraries  #######################
+
 from keras.preprocessing.image import ImageDataGenerator
 import os 
 
